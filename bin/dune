@@ -1,0 +1,4 @@
+(executable
+ (public_name schmess)
+ (name main)
+ (libraries schmess))
